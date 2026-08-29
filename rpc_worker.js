@@ -1,3 +1,8 @@
+/*
+ * GAME SHOP STORE
+ * 📍 المنصوره حى الجامعة شارع الايمان بجانب مول الجامعه بلازا
+ * 📞 0502370475 | 01020244499 | 01024388999
+ */
 "use strict";
 
 let marker_arr = new Uint32Array(new ArrayBuffer(0x10));
